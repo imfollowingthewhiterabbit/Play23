@@ -1,0 +1,29 @@
+package bsort;
+import java.util.Scanner;
+public class Play23 {
+	public static void main(String[] args) {
+		Scanner setNumber = new Scanner(System.in);
+		int iNumber1, iNumber2, iNumber3, iNumber4;
+		System.out.println("Geben Sie eine Zahl ein"); // Zahl 1
+		iNumber1 = setNumber.nextInt();
+		iNumber2 = setNumber.nextInt();
+		iNumber3 = setNumber.nextInt();
+		iNumber4 = setNumber.nextInt();
+		System.out.println(iNumber1 + iNumber2 + iNumber3 + iNumber4);
+		
+		/*int codeBlock1, codeBlock2, codeBlock3, codeBlock4;
+		codeBlock1 = iNumber1 - iNumber2;
+		codeBlock2 = iNumber1 + iNumber2;
+		codeBlock3 = iNumber1 * iNumber2;
+		codeBlock4 = iNumber1 / iNumber2;*/
+		
+		
+
+		
+		for(int i= 0; i<=2; i++) {
+			break;
+		}
+		
+	}
+
+}
